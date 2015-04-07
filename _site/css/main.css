@@ -1,0 +1,27 @@
+@import url("codehighlighting.css");
+
+.header
+{
+    margin-top: 20px;
+}
+
+.footer
+{
+    padding: 10px;
+    margin: 10px;
+    color: #888;
+    font-weight: bold;
+}
+
+table
+{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+td, th
+{
+    border: 1px solid #eee;
+    padding: 10px !important;
+}
